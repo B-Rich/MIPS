@@ -1,0 +1,1 @@
+addi $t0 $zero 1add $t0 $t0 $t0
